@@ -9,36 +9,30 @@ The app includes:
 - Local high scores saved by target count.
 - Configurable target size, color, outline, texture, and overlay dimming.
 
-## Getting Started
-
-Create and activate a virtual environment from the project directory:
+## Setup
 
 ```bash
 cd ~/clicker
 python3 -m venv .venv
 source .venv/bin/activate
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-```
-
-Run the app:
-
-```bash
+pip install -r requirements.txt
 python clicker.py
 ```
 
-Press `Esc` while the overlay is active to return to the settings window.
+## Shell Alias (optional)
 
-## Shell Alias
-
-This repo includes `clicker_aliases.sh`, a snippet intended for `~/.bash_aliases`. After it is loaded, you can start the trainer from anywhere with:
+Add the following to `~/.bash_aliases` so you can launch the trainer from anywhere by typing `clicker`:
 
 ```bash
-clicker
+source ~/clicker/clicker_aliases.sh
 ```
 
-Reload your shell aliases after updating `~/.bash_aliases`:
+Then reload your shell:
 
 ```bash
 source ~/.bash_aliases
 ```
+
+## Controls
+
+- `Esc` — return to the settings window while the overlay is active.
