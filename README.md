@@ -45,3 +45,5 @@ clicker
 
 <img width="425" height="703" alt="image" src="https://github.com/user-attachments/assets/e3ed73c5-46be-4c69-8ad3-565d818e1a5b" />
 <img width="1656" height="1525" alt="image" src="https://github.com/user-attachments/assets/88056ad9-eada-492c-be41-f4cf12062b19" />
+
+"credit the idea of adding a screenshot to @focusederror" - PapaJuans
