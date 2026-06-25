@@ -1,9 +1,9 @@
 {
   "color": "#e01b24",
   "outline_color": "#ffffff",
-  "size": 15,
+  "size": 32,
   "texture": "glow",
   "show_outline": false,
   "outline_width": 1,
-  "overlay_opacity": 21
+  "overlay_opacity": 22
 }
