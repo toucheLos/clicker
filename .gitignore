@@ -1,1 +1,4 @@
 venv-clicker
+__pycache__
+highscores.json
+

@@ -5,5 +5,5 @@
   "texture": "glow",
   "show_outline": false,
   "outline_width": 1,
-  "overlay_opacity": 22
+  "overlay_opacity": 120
 }
